@@ -1,4 +1,4 @@
-# legend_setting
+# legend_settings
 
 legend_labels = ["pretrained", "trained from scratch"]
 
